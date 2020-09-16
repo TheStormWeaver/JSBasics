@@ -10,3 +10,4 @@ function Aquarium (input){
 
     console.log(result.toFixed(3))
 }
+Aquarium(["85","75","47","17"])
