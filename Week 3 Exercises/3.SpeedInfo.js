@@ -12,3 +12,4 @@ if (speed <= 10){
   console.log("extremely fast")
 }
 }
+solve(["8"])
