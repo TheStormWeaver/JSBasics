@@ -130,3 +130,4 @@ function solve(input) {
     console.log("error")
   }
 }
+solve(["apple","Tuesday","2"])
