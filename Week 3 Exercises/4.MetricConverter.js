@@ -14,3 +14,4 @@ if (endm == 'mm'){
 }
 console.log(num.toFixed(3))
 }
+solve(["12","mm","n"])
