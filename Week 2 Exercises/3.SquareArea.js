@@ -3,3 +3,4 @@ function umnojenie(input){
     let result = a * a
     console.log(result)
 }
+umnojenie(["5"])
