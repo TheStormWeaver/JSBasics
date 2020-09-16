@@ -12,3 +12,4 @@ function Solve(input) {
     let sumafterrecords = companyfunds - (companyfunds * 0.125)
     console.log(sumafterrecords.toFixed(2))
 }
+Solve(["20","8","14","30","16"])
