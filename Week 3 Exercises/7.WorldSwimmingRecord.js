@@ -13,3 +13,4 @@ function solve(input) {
     console.log(`Yes, he succeeded! The new world record is ${wintime.toFixed(2)} seconds.`)
   }
 }
+solve(["10646","1500","20"])
