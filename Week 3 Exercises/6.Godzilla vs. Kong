@@ -1,4 +1,4 @@
-unction solve(input) {
+function solve(input) {
   let budget = Number(input.shift());
   let statist = Number(input.shift());
   let clothingcost = Number(input.shift());
