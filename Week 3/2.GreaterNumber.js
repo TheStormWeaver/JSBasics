@@ -7,3 +7,4 @@ function solve(input) {
         console.log(num2)
     }
 }
+solve(["5","3"])
