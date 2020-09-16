@@ -14,3 +14,4 @@ function Solve(input) {
     let sum = rakiqsum + winesum + beersum + wiskisum
     console.log(sum.toFixed(2))
 }
+Solve(["50","10","3.5","6.5","1"])
