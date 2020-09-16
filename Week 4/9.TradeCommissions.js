@@ -43,3 +43,4 @@ function solve(input) {
     console.log("error")
   }
 }
+solve(["Sofia","1500"])
