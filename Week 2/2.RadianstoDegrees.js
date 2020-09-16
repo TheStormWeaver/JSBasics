@@ -3,4 +3,4 @@ function converter(input){
     let degrees = radians * 180 / Math.PI
     console.log(degrees.toFixed(0))
 }
-converter(["6.2832"])
+converter(["3.1416"])
