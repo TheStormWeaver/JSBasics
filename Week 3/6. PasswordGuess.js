@@ -6,3 +6,4 @@ function solve(input) {
         console.log("Wrong password!");
     }
 }
+solve(["s3cr3t!P@ssw0rd"])
