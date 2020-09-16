@@ -8,3 +8,4 @@ if (num<100){
     console.log("Greater than 200")
 }
 }
+solve(["95"])
