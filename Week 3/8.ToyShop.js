@@ -19,3 +19,4 @@ if(sum >= price){
     console.log(`Not enough money! ${(price - sum).toFixed(2)} lv needed.`)
 }
 }
+solve(["30","50","10"])
