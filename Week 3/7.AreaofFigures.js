@@ -18,3 +18,4 @@ function solve(input) {
     }
     console.log(area.toFixed(3));
 }
+solve(["square","5"])
