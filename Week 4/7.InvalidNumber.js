@@ -5,3 +5,4 @@ function solve(input) {
     console.log("invalid")
   }
 }
+solve(["75"])
