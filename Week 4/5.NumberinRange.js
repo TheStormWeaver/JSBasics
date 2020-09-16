@@ -6,3 +6,4 @@ function solve(input) {
     console.log("No")
   }
 }
+solve(["-25"])
