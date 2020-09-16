@@ -10,3 +10,4 @@ function sowing(input){
     console.log((usdprice).toFixed(2) + ' USD')
     console.log((bgnprice).toFixed(2) + ' BGN') 
 }
+sowing(["5","1","0.50"])
