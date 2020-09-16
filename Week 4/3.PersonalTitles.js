@@ -16,3 +16,4 @@ function solve(input) {
     }
   }
 }
+solve(["12","f"])
