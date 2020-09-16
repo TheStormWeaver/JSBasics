@@ -16,3 +16,4 @@ if (score % 2 == 0){
 console.log(bonus);
 console.log(score + bonus);
 }
+solve(["20"])
