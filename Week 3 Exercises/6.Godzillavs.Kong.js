@@ -21,3 +21,4 @@ function solve(input) {
   Wingard needs ${enougbudget.toFixed(2)} leva more.`)
   }
   }
+solve(["20000","120","55.6"])
