@@ -14,3 +14,4 @@ if (fm < 10) {
   console.log(`${lh}:${fm}`)
 }
 }
+solve(["1","46"])
