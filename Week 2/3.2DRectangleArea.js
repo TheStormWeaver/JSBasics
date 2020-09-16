@@ -10,3 +10,4 @@ function rectangle (input){
     console.log(area.toFixed(2))
     console.log(perimeter.toFixed(2))
 }
+rectangle(["60","20","10","50"])
