@@ -13,3 +13,4 @@ function solve(input) {
       console.log("unknown");
   }
 }
+solve(["dog"])
