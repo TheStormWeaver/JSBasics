@@ -8,3 +8,4 @@ function solve(input) {
     console.log("unknown")
   }
 }
+solve(["banana"])
