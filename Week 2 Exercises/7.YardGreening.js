@@ -7,3 +7,4 @@ function YardGreenening(input){
     console.log(`The final price is: ${pwd.toFixed(2)} lv.`)
     console.log(`The discount is: ${discount.toFixed(2)} lv.`)
 }
+YardGreenening(["540"])
