@@ -22,3 +22,4 @@ function solve(input) {
         console.log("number too big")
     }
 }
+solve(["5"])
