@@ -9,3 +9,4 @@ function Solve(input) {
     let dancers= freespace / (40+7000)
     console.log(Math.floor(dancers))
 }
+Solve(["50","25","2"])
