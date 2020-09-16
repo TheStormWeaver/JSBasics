@@ -58,3 +58,4 @@ function solve(input) {
     }
   }
 }
+solve(["coffe","Varna","2"])
