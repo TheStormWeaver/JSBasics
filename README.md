@@ -1,2 +1,2 @@
 # SoftuniJSbasics
-basic proggraming 
+basic proggraming november 2019
