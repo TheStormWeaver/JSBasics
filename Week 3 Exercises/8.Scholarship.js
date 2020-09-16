@@ -20,3 +20,4 @@ function solve(input) {
     console.log(`You cannot get a scholarship!`)
   }
 }
+solve(["480.00","4.60","450.00"])
