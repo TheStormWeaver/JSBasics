@@ -1,2 +1,2 @@
 # SoftuniJSbasics
-basic programming november 2019 - january 2020 Softuni course
+Programming basics JS november 2019 - january 2020 Softuni Course
