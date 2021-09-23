@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://softuni.bg/">
-  <img width="100%" src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="course">
+  <img width="90%" src="https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png" alt="course">
   </a>
 </p>
 
