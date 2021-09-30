@@ -36,3 +36,10 @@
   <img src="https://img.shields.io/badge/Finished-Repo-green" alt="progress" width="10%">
   <img src="https://img.shields.io/badge/License-MT-blueviolet" alt="license" width="8%">
 </p>
+
+# Certificate
+<p align="center">
+<a href="https://softuni.bg/">
+  <img width="90%" src="https://softuni.bg/certificates/certificates/converttoimage/73923?code=f771273d" alt="certificate">
+  </a>
+</p>
