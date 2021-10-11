@@ -32,8 +32,8 @@
 
 # Certificate
 <p align="center">
-<a href="https://softuni.bg/certificates/certificates/converttoimage/73923?code=f771273d">
-  <img width="90%" src="https://softuni.bg/certificates/certificates/converttoimage/73923?code=f771273d" alt="certificate">
+<a href="https://softuni.bg/certificates/certificates/converttoimage/110755?code=8e8bdaee">
+  <img width="90%" src="https://softuni.bg/certificates/certificates/converttoimage/110755?code=8e8bdaee" alt="certificate">
   </a>
 </p>
 
